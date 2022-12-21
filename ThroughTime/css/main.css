@@ -1,0 +1,94 @@
+body{
+ background-color: #F2F2F2;
+ margin: 0;
+}
+.headblock{
+    width: 100%;
+    height: 120px;
+    margin: 0;
+    padding: 0;
+    background-color: #5DAEE0;
+}
+/*.main_container{
+    width: 1000px;
+}*/
+.main_img {
+    width: 800px;    
+    margin: auto;
+    height: 450px;
+    background-image: url(../img/stryacr.png);
+    background-color: grey;
+    
+}
+.links{
+    padding-left: 15%;
+    padding-top: 40px;
+    margin: 0 , auto;
+}
+.titlen{
+    font-size: 56px;
+    padding-left: 37%;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    margin: auto;
+    font-weight: 100;
+}
+.links>a{
+    font-size: 40px;
+    text-decoration:none;
+    padding-left:80px;
+    
+    color: #F2F2F2;
+}
+.pictures>img{
+    display: inline;
+    padding: 20px;
+}
+.warn{
+    color: red;
+    font-size: 25px;
+}
+.pictures{
+    padding-left: 30px;
+}
+.pictures>p{
+    padding-left: 400px;
+}
+a{
+    text-decoration: none;
+}
+.but{
+    background-color: #F7A028;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+.but>a{
+    font-size: 26px;
+    color: #F2F2F2;
+    padding-left: 20%;
+    text-align: center;
+}
+.forms{
+    margin: auto;
+}
+.wrapper{
+        width: 780px;
+        margin: 0 auto;
+}
+.frameimg{
+    max-width:450px;
+    max-height:450px;
+}
+.about{
+    float: right;
+    font-size: 30px;
+}
+.mypic2{
+    width: 480px;    
+    float: left;
+    height: 500px;
+    background-image: url(../img/about.png);
+    background-color: grey;
+}
